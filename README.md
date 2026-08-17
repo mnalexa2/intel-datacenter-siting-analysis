@@ -28,7 +28,5 @@ Texas and California, despite high renewable percentages, were ruled out - both 
 SQL · Tableau · Data Aggregation & Joins · Regional Data Analysis
 
 ## Dashboard
-[Link to Tableau dashboard, or a screenshot embedded below]
-
-![Net Production by Region](images/net_production.png)
-![Renewable Energy Percentage by Region](images/renewable_percentage.png)
+![Net Production by Region](https://github.com/user-attachments/assets/f0d0c9d5-48cf-493c-850e-6200624b4f93)
+![Renewable Energy Percentage by Region](https://github.com/user-attachments/assets/194d92a9-9edd-433d-aa70-adc305eda8b4)
